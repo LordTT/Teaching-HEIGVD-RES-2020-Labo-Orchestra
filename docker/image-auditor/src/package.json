@@ -1,0 +1,15 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabio da Silva Marques & Théo Ferrari",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "net": "^1.0.2"
+  }
+}
